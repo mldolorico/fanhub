@@ -1,0 +1,50 @@
+
+
+PROJECT TITLE: My Fanpage Hub
+
+INTRODUCTION: This website serves as a hub where I can showcase musical artists I support. It can also accept suggestions for new up-and-coming artists I can look into.
+
+DEVELOPER: Martin John L. Dolorico 
+Contact Info:
+Mobile - 09173782746 
+Email - mldolorico@upd.edu.ph
+
+INTENDED USER/CLIENT: Anyone who wishes to review my credentials.
+
+SITE DESIGN:
+
+I. Site Map 
+HOME
+LINKS TO SOCIAL MEDIA ACCOUNTS
+ASSOCIATED ACTS
+BE AN ASSOCIATED ACT
+REGISTER
+LOGIN
+
+II. Functional Requirements
+
+Site is connected to a database of associated acts. There are CRUD functionalities on the site that can add, update and delete records from that database.
+Site also has functions that are only available when you log-in.
+
+III. Sources 
+
+Image Sources:
+barrettbaber.com
+boyceavenue.com
+instagram.com/hunterplake lukewademusic.com
+michaelsanchezmusic.com
+ryanquinnmusic.com
+
+Code Sources:
+Mr. Paul Jason Perez
+Stylesheet: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+
+IV. TIMELINE
+
+Homepage Design - September 18, 2017
+Fan Page Design - September 20, 2017
+Database Design - December 6, 2017
+CRUD Functions - December 7-9, 2017
+Documentation - December 11, 2017
+
+
